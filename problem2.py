@@ -18,4 +18,3 @@ while value1+value2 < max_value:
     value2 = sum_fx
 
 print(sum_fib_even)
-
